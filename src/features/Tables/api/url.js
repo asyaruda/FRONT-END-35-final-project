@@ -1,0 +1,1 @@
+export const tablesUrl = 'http://localhost:4000/tables/'
